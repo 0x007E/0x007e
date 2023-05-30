@@ -113,6 +113,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![Windows NT](https://img.shields.io/badge/Windows%20NT-008484?style=for-the-badge&logo=windows95&logoColor=white)
   ![Windows 3.11](https://img.shields.io/badge/Windows%203.11-38a3c3?style=for-the-badge&logo=windows95&logoColor=white)
 
+  ![MenuetOS](https://img.shields.io/badge/MenuetOS-000000?style=for-the-badge&logo=menuetos&logoColor=white)
   ![Microsoft DOS](https://img.shields.io/badge/DOS%206.0-000000?style=for-the-badge&logo=windowsxp&logoColor=white)
   ![Novell](https://img.shields.io/badge/novell%20Netware-E61b23?style=for-the-badge&logo=novell&logoColor=white)
 
