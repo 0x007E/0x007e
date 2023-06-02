@@ -32,7 +32,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
 
   ![ASSEMBLY](https://img.shields.io/badge/assembly-24324a?style=for-the-badge&logo=assembly&logoColor=ffdd54)
   ![Pascal](https://img.shields.io/badge/pascal-f7f700?style=for-the-badge&logo=pascal&logoColor=ffdd54)
-  ![Basic](https://img.shields.io/badge/(Q)basic-0000a5?style=for-the-badge&logo=basic&logoColor=ffdd54)
+  ![Basic](https://img.shields.io/badge/(Q)basic-0000a5?style=for-the-badge&logo=qbasic&logoColor=ffdd54)
 
 ### Text things:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -139,6 +139,11 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![Eagle](https://img.shields.io/badge/eagle-%23d67b26.svg?style=for-the-badge&logo=eagle&logoColor=white)
   ![FreeCAD](https://img.shields.io/badge/freecad-%23f52106.svg?style=for-the-badge&logo=freecad&logoColor=white)
   ![SolidWorks](https://img.shields.io/badge/solidworks-%23d62b00.svg?style=for-the-badge&logo=solidworks&logoColor=white)
+
+## Stats
+  ![0x007E's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=0x007E&include_orgs=true&show_icons=true&theme=transparent&locale=en)
+
+  ![0x007E's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=0x007E&include_orgs=true&show_icons=true&theme=transparent&locale=en&exclude_repo=lixie)
 
 ---
 🧮 Me and my mum, behind you see my workplace in the late 80´s 💾! Ok maybe it´s the workplace of my dad and i just used it sometimes.
