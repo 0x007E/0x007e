@@ -53,7 +53,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![MySQL](https://img.shields.io/badge/mysql-00718b.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/mariadb-00f.svg?style=for-the-badge&logo=mariadb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgree_sql-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgre_sql-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/mongodb-07ac4f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-c02e2a.svg?style=for-the-badge&logo=redis&logoColor=white)
 
