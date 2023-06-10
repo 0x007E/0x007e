@@ -4,7 +4,7 @@
 
 ## About me:
 * 👨‍💻 Electronics/Software engineer and problem solver
-* 🌍 I´m from planet earth, milky way, universe nr. 1 
+* 🌍 I´m from planet earth, milky way, universe nr. 1337 
 * 🏫 Teaching/Supervisioning/Coaching of young talents
 * 💻 Working with computers since the late 1980´s
 * 💗 Love designing things from scratch
