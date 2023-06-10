@@ -8,7 +8,7 @@
 * 🏫 Teaching/Supervisioning/Coaching of young talents
 * 💻 Working with computers since the late 1980´s
 * 💗 Love designing things from scratch
-* 🔮 Inspired from technology
+* 🔮 Inspired by technology
 
 ## Interested in:
 
