@@ -159,7 +159,8 @@ Me, checking if there is enough space in the computer case!
 
 Instructing the photographer.
 
-![The small one](instruction.jpg)
+![The small one](instruct.jpg)
+
 ---
 
 🤙🖖 G.Raf
