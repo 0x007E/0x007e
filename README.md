@@ -103,10 +103,12 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
 ### Platforms:
   ![Intel](https://img.shields.io/badge/-intel-0065a5?style=for-the-badge&logo=intel&logoColor=white)
   ![AMD](https://img.shields.io/badge/-amd-000000?style=for-the-badge&logo=amd&logoColor=white)
+  ![ARM](https://img.shields.io/badge/-arm-008bb8?style=for-the-badge&logo=arm&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-  ![STM](https://img.shields.io/badge/-stm-3aaedf?style=for-the-badge&logo=stm&logoColor=white)
+  ![STM](https://img.shields.io/badge/-stm-3aaedf?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+  ![Microchip](https://img.shields.io/badge/-microchip-3aaedf?style=for-the-badge&logo=microchip&logoColor=white)
 
 ### Operating Systems:
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
@@ -135,6 +137,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![Metasploit](https://img.shields.io/badge/metasploit-%230d74b3.svg?style=for-the-badge&logo=metasploit&logoColor=black)
 
 ### Electronic/Mechanical Design:
+  ![LTSpice](https://img.shields.io/badge/ltspice-86022d.svg?style=for-the-badge&logo=ltspice&logoColor=white)
   ![KiCAD](https://img.shields.io/badge/kicad-%233146b0.svg?style=for-the-badge&logo=kicad&logoColor=white)
   ![Eagle](https://img.shields.io/badge/eagle-%23d67b26.svg?style=for-the-badge&logo=eagle&logoColor=white)
   ![FreeCAD](https://img.shields.io/badge/freecad-%23f52106.svg?style=for-the-badge&logo=freecad&logoColor=white)
@@ -154,6 +157,9 @@ Me, checking if there is enough space in the computer case!
 
 ![The small one](me.jpg)
 
+Instructing the photographer.
+
+![The small one](instruction.jpg)
 ---
 
 🤙🖖 G.Raf
