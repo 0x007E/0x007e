@@ -108,7 +108,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![STM](https://img.shields.io/badge/-stm-3aaedf?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-  ![Microchip](https://img.shields.io/badge/-microchip-3aaedf?style=for-the-badge&logo=microchip&logoColor=white)
+  ![Microchip](https://img.shields.io/badge/-microchip-ee2e2b?style=for-the-badge&logo=microchip&logoColor=white)
 
 ### Operating Systems:
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
