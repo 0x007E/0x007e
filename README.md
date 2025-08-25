@@ -141,7 +141,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![KiCAD](https://img.shields.io/badge/kicad-%233146b0.svg?style=for-the-badge&logo=kicad&logoColor=white)
   ![Eagle](https://img.shields.io/badge/eagle-%23d67b26.svg?style=for-the-badge&logo=eagle&logoColor=white)
   ![FreeCAD](https://img.shields.io/badge/freecad-%23f52106.svg?style=for-the-badge&logo=freecad&logoColor=white)
-  ![SolidWorks](https://img.shields.io/badge/solidworks-%23d62b00.svg?style=for-the-badge&logo=solidworks&logoColor=white)
+  ![SolidWorks](https://img.shields.io/badge/solidworks-%23d62b00.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 ## Stats
   ![0x007E's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=0x007E&include_orgs=true&show_icons=true&theme=transparent&locale=en)
