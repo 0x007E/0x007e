@@ -111,6 +111,7 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![Microchip](https://img.shields.io/badge/-microchip-ee2e2b?style=for-the-badge&logo=microchip&logoColor=white)
 
 ### Operating Systems:
+  ![Arch](https://img.shields.io/badge/Arch-%231793d1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
