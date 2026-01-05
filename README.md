@@ -145,9 +145,9 @@ Everything with a transistor 😀 that can be programmed, opensource, electronic
   ![SolidWorks](https://img.shields.io/badge/solidworks-%23d62b00.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 ## Stats
-  ![0x007E's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=0x007E&include_orgs=true&show_icons=true&theme=transparent&locale=en)
+  ![0x007E's GitHub stats](https://0x007e.github.io/0x007e/stats.svg)
 
-  ![0x007E's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=0x007E&include_orgs=true&show_icons=true&theme=transparent&locale=en&exclude_repo=lixie)
+  ![0x007E's GitHub stats](https://0x007e.github.io/0x007e/top-langs.svg)
 
 ---
 🧮 Me and my mum, behind you see my workplace in the late 80´s 💾! Ok maybe it´s the workplace of my dad and i just used it sometimes.
