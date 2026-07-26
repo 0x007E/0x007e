@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=transparent&locale=en
+          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=transparent&locale=en&hide=eagle
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=transparent&locale=en&exclude_repo=lixie
+          options: username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=transparent&locale=en&exclude_repo=lixie&hide=eagle
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
